@@ -2,6 +2,7 @@
     background-image: url("./Assignment_1/assets/backgrounds/hero.jpg");
     color: white;
     background-repeat: no-repeat;
+    background-color: rgb(228, 200, 180);
 }
 header{
     position: sticky;
@@ -31,9 +32,22 @@ header{
 .body h2{
     text-align: center;
     padding-top: 15rem;
-    padding-bottom: 10rem;
+    padding-bottom: 3rem;
 }
 .btns{
     margin-top: 0;
     background-color: rgb(235, 171, 126);
+}
+.checkBx{
+    margin-top: 0;
+    color: black;
+    size: 4rem;
+} 
+.col-lg-4 a{
+    color: #fff;
+   font-size: 15px;
+   padding: 18px;
+}
+.col-lg-4{
+    padding-bottom: 10px;
 }
