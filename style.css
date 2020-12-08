@@ -1,0 +1,11 @@
+.container {
+    background-image: url("./Assignment_1/assets/backgrounds/hero.jpg");
+    color: white;
+}
+.row{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.row a{
+    color: white;
+}
