@@ -1,6 +1,10 @@
 .container {
     background-image: url("./Assignment_1/assets/backgrounds/hero.jpg");
     color: white;
+    background-repeat: no-repeat;
+}
+header{
+    position: sticky;
 }
 .row{
     padding-top: 30px;
@@ -8,4 +12,28 @@
 }
 .row a{
     color: white;
+}
+/* .body{
+    text-align: center;
+    padding-top: 90px;
+} */
+.body h4{
+    font-size: 3rem;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 12rem;
+}
+.body p{
+    padding-top: 4rem;
+    padding-bottom: 0;
+    text-align: center;
+}
+.body h2{
+    text-align: center;
+    padding-top: 15rem;
+    padding-bottom: 10rem;
+}
+.btns{
+    margin-top: 0;
+    background-color: rgb(235, 171, 126);
 }
