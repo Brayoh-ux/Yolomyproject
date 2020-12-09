@@ -9,7 +9,7 @@ This is a project on Yolomy website that deals with fashion; clothes, shoes, bag
 ....
 ## Technologies Used
 * HTML in code writing
-*CSS in styling code.
+* CSS in styling code.
 ## Link
  https://brianmbugua5693.github.io/Yolomyproject/
 ## License
