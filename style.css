@@ -111,9 +111,22 @@ header{
     background-color: rgb(34, 33, 33);
     border: 0;
     text-align: center;
+    padding-top: 4%;
     
+}
+.social{
+    padding-top: -10px;
 }
 .foots{
     margin-left: -25px;
     margin-right: -25px;
+
+}
+.nav {
+    text-align: center;
+}
+.nav ul li {
+    display: inline-block;
+    border-right: #fff;
+    text-decoration: none;
 }
