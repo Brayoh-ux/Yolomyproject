@@ -72,5 +72,21 @@ header{
 }
 .col-md-4{
     border: solid rgba(247, 245, 245, 0.945);
-    background-color: rgba(247, 245, 245, 0.945);
+    background-color: rgba(219, 197, 197, 0.945);
+}
+.col-md-4 h5{
+    font-family: fantasy;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.about{
+    background-image: url("./Assignment_1/assets/backgrounds/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-right: -20px;
+    margin-left: -20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
 }
